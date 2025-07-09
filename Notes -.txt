@@ -2,7 +2,7 @@
 
 Hi! I'm currently learning Python as part of my journey into data science. This repository contains basic Python programs and beginner-level projects I've built to solidify my understanding.
 
-##  Topics I've Learned So Far
+##  Topics I've Learned So Far (till 9th July 2025)
 
 - Variables and Data Types
 - Input and Output
@@ -10,4 +10,4 @@ Hi! I'm currently learning Python as part of my journey into data science. This 
 - Conditional Statements (if/else)
 - String formatting (f-strings)
 - List and Dictionaries 
-- If-else statements                       ( Updated on 9th July 2025)
+- If-else statements                       
