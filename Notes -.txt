@@ -1,4 +1,4 @@
-#  Python Basics – Learning Journey
+#  Python Basics – Data Science Learning Journey
 
 Hi! I'm currently learning Python as part of my journey into data science. This repository contains basic Python programs and beginner-level projects I've built to solidify my understanding.
 
@@ -11,3 +11,10 @@ Hi! I'm currently learning Python as part of my journey into data science. This 
 - String formatting (f-strings)
 - List and Dictionaries 
 - If-else statements                       
+
+## Topics I learned on 10th July 2025:
+
+- For loops 
+- Def functions 
+- OS Module 
+- Practiced some tasks for the above mentioned topics 
