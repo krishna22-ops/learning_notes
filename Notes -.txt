@@ -18,3 +18,10 @@ Hi! I'm currently learning Python as part of my journey into data science. This 
 - Def functions 
 - OS Module 
 - Practiced some tasks for the above mentioned topics (Link:https://github.com/krishna22-ops/Practice-Task)
+
+## Topics I learned on 11th July 2025:
+
+- Pandas {Need to practice more}
+- NumPy {Need to practice more}
+- Create a dataframe using list and dictionaries 
+- Import a csv file and read it
