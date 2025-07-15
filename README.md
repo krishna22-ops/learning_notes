@@ -25,3 +25,11 @@ Hi! I'm currently learning Python as part of my journey into data science. This 
 - NumPy {Need to practice more}
 - Create a dataframe using list and dictionaries 
 - Import a csv file and read it
+
+## Topics I learned on 12th July 2025:
+
+- Basic Attributes (shape, index, columns, dtypes)
+- Functions (max, min, len, round, type)
+- Methods (describe, info, head, tails)
+- Select a single column using [] and dot(.)
+- Using the dot may not work in some cases, so we have to use it as a string.
