@@ -34,4 +34,17 @@ Hi! I'm currently learning Python as part of my journey into data science. This 
 - Select a single column using [] and dot(.)
 - Using the dot may not work in some cases, so we have to use it as a string.
 
-## Decided to make another SQL Project based on real world data (13-16th July 2025) so I don't forget everything about SQL.  
+## Decided to make another SQL Project based on real world data (13-16th July 2025) for practice.
+- Created this project to practice working with real-world-style relational data.
+- Focused on analyzing BMW car sales and dealership performance.
+- Includes both basic and advanced SQL queries, such as:
+   - Top-selling model per dealership
+   - Cars sold by BMW Premier
+   - All electric cars sold
+- Built using two tables: bmw_sales and dealership.
+- Dataset includes fields like model, fuel type, price, mileage, year, and dealership info.
+- Used MySQL for database setup and querying.
+- Applied core SQL skills including:
+  - JOIN, GROUP BY, HAVING, ORDER BY
+  - CTEs and Window Function
+- Shows how the relationship between vehicle inventory and dealership data works in real-world scenarios.
