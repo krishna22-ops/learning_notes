@@ -47,4 +47,4 @@ Hi! I'm currently learning Python as part of my journey into data science. This 
 - Applied core SQL skills including:
   - JOIN, GROUP BY, HAVING, ORDER BY
   - CTEs and Window Function
-- Shows how the relationship between vehicle inventory and dealership data works in real-world scenarios.
+- Shows how the relationship between vehicle inventory and dealership data might work in real-world scenarios.
