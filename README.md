@@ -33,3 +33,5 @@ Hi! I'm currently learning Python as part of my journey into data science. This 
 - Methods (describe, info, head, tails)
 - Select a single column using [] and dot(.)
 - Using the dot may not work in some cases, so we have to use it as a string.
+
+## Decided to make another SQL Project based on real world data (13-16th July 2025) so I don't forget everything about SQL.  
