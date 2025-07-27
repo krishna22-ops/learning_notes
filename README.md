@@ -1,4 +1,4 @@
-#  Python Basics – Data Science Learning Journey
+#  Python Basics – Data Engineer Learning Journey
 
 Hi! I'm currently learning Python as part of my journey into data science. This repository contains basic Python programs and beginner-level projects I've built to solidify my understanding.
 
