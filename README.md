@@ -48,3 +48,8 @@ Hi! I'm currently learning Python as part of my journey into data engineer. This
   - JOIN, GROUP BY, HAVING, ORDER BY
   - CTEs and Window Function
 - Shows how the relationship between vehicle inventory and dealership data might work in real-world scenarios.
+
+
+## Took a break for a week and now back to studying 
+- During this break i realized, it could be easier if i started with Data Engineering rather than Data Scientist for my first ever intern. So, I decided to learn tools and skills required to be a data engineer.
+  
