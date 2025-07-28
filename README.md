@@ -1,8 +1,73 @@
+# SQL Learning Log
+
+## Week 1: Basics & Queries (2nd July 2025)
+
+**Topics Covered:**  
+- Introduction to SQL and relational databases  
+- SELECT statements and filtering with WHERE  
+- Sorting results using ORDER BY  
+- Basic aggregate functions: COUNT, SUM, AVG  
+
+**What I Learned / Notes:**  
+- Already comfortable with basic queries and filtering.  
+- Practiced on various sample datasets.  
+
+**Projects / Practice:**  
+- Created SQL queries for employee and sales datasets.  
+- Explored basic data retrieval and aggregation.
+
+
+## Week 2: Joins & Advanced Filtering (9th July 2025)
+
+**Topics Covered:**  
+- INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN  
+- Using aliases and subqueries  
+- Filtering with IN, BETWEEN, LIKE  
+
+**What I Learned / Notes:**  
+- Confident with joining tables and writing subqueries.  
+- Applied advanced filters for complex queries.
+
+**Projects / Practice:**  
+- Joined multiple tables to analyze sales by region.  
+- Built nested queries to extract specific data slices.
+
+
+## Week 3: Aggregations & Grouping (17th July 2025)
+
+**Topics Covered:**  
+- GROUP BY and HAVING clauses  
+- Aggregate functions: COUNT, SUM, AVG, MIN, MAX  
+- Combining GROUP BY with JOINs  
+
+**What I Learned / Notes:**  
+- Skilled at grouping data and filtering aggregated results.  
+- Used HAVING clauses to refine grouped queries.
+
+**Projects / Practice:**  
+- Generated reports summarizing sales and employee performance.  
+- Worked with grouped data on customer purchase behavior.
+
+## Week 4: Data Manipulation & Optimization (22th July 2025)
+
+**Topics Covered:**  
+- INSERT, UPDATE, DELETE commands  
+- Creating and modifying tables: CREATE, ALTER, DROP  
+- Basics of indexes and query optimization  
+
+**What I Plan to Learn / Practice:**  
+- Improve skills on data modification and table management.  
+- Explore query optimization and indexing strategies.  
+
+**Projects / Practice:**  
+- Plan to design small database schema and manipulate data.  
+- Will experiment with indexing for performance boosts.
+
+
+
 #  Python Basics – Data Engineer Learning Journey
 
-Hi! I'm currently learning Python as part of my journey into data engineer. This repository contains basic Python programs and beginner-level projects I've built to solidify my understanding.
-
-##  Topics I've Learned So Far (till 9th July 2025)
+##  Topics I've Learned So Far (4th July 2025):
 
 - Variables and Data Types
 - Input and Output
@@ -12,21 +77,21 @@ Hi! I'm currently learning Python as part of my journey into data engineer. This
 - List and Dictionaries 
 - If-else statements                       
 
-## Topics I learned on 10th July 2025:
+## Topics I learned on 3rd July 2025:
 
 - For loops 
 - Def functions 
 - OS Module 
 - Practiced some tasks for the above mentioned topics (Link:https://github.com/krishna22-ops/Practice-Task)
 
-## Topics I learned on 11th July 2025:
+## Topics I learned on 9th July 2025:
 
 - Pandas {Need to practice more}
 - NumPy {Need to practice more}
 - Create a dataframe using list and dictionaries 
 - Import a csv file and read it
 
-## Topics I learned on 12th July 2025:
+## Topics I learned on 15th July 2025:
 
 - Basic Attributes (shape, index, columns, dtypes)
 - Functions (max, min, len, round, type)
@@ -34,7 +99,7 @@ Hi! I'm currently learning Python as part of my journey into data engineer. This
 - Select a single column using [] and dot(.)
 - Using the dot may not work in some cases, so we have to use it as a string.
 
-## Decided to make another SQL Project based on real world data (13-16th July 2025) for practice.
+## Decided to make another SQL Project based on real world data for practice.
 - Created this project to practice working with real-world-style relational data.
 - Focused on analyzing BMW car sales and dealership performance.
 - Includes both basic and advanced SQL queries, such as:
@@ -52,4 +117,9 @@ Hi! I'm currently learning Python as part of my journey into data engineer. This
 
 ## Took a break for a week and now back to studying 
 - I took a week-long break and now I’m back to studying. During this time, I realized it might be more practical to begin with Data Engineering rather than aiming directly for a Data Scientist role for my first internship. So, I’ve decided to focus on learning the tools and skills necessary to become a data engineer.
+- After browsing the internet for hours, I decided to:
+   - Start learning Data Engineering basics focusing on ETL concepts.
+   - Created a 4-task learning plan covering ETL, pipelines, cloud basics, and a mini project in Notion.
+   - Compiled useful resources and made a PDF study guide.
+   - Planning to tackle tasks step-by-step, focusing on quality over speed.
   
