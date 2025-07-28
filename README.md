@@ -51,5 +51,5 @@ Hi! I'm currently learning Python as part of my journey into data engineer. This
 
 
 ## Took a break for a week and now back to studying 
-- During this break i realized, it could be easier if i started with Data Engineering rather than Data Scientist for my first ever intern. So, I decided to learn tools and skills required to be a data engineer.
+- I took a week-long break and now I’m back to studying. During this time, I realized it might be more practical to begin with Data Engineering rather than aiming directly for a Data Scientist role for my first internship. So, I’ve decided to focus on learning the tools and skills necessary to become a data engineer.
   
