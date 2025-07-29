@@ -99,7 +99,7 @@
 - Select a single column using [] and dot(.)
 - Using the dot may not work in some cases, so we have to use it as a string.
 
-## Decided to make another SQL Project based on real world data for practice.
+# Decided to make another SQL Project based on real world data for practice.
 - Created this project to practice working with real-world-style relational data.
 - Focused on analyzing BMW car sales and dealership performance.
 - Includes both basic and advanced SQL queries, such as:
@@ -115,7 +115,7 @@
 - Shows how the relationship between vehicle inventory and dealership data might work in real-world scenarios.
 
 
-## Took a break for a week and now back to studying 
+# Took a break for a week and now back to studying 
 - I took a week-long break and now I’m back to studying. During this time, I realized it might be more practical to begin with Data Engineering rather than aiming directly for a Data Scientist role for my first internship. So, I’ve decided to focus on learning the tools and skills necessary to become a data engineer.
 - After browsing the internet for hours, I decided to:
    - Start learning Data Engineering basics focusing on ETL concepts.
@@ -123,7 +123,7 @@
    - Compiled useful resources and made a PDF study guide.
    - Planning to tackle tasks step-by-step, focusing on quality over speed.
 
-## What I learned today (29th July 2025):
+# What I learned today (29th July 2025):
 - Today's plan was to learn basic concepts of ETL (Extract, Transform and Load). Used libraries like Pandas to write simple scripts.
 - Learned another term called ElT (Extract, Load and Transform) which is different from ETL.
   - In ETL, the order is extract, transform and load and the transformation part happens in a processing environment
