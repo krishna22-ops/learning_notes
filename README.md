@@ -17,7 +17,7 @@
 - Explored basic data retrieval and aggregation.
 
 
-## Week 2: Joins & Advanced Filtering (9th July 2025)
+## Week 2: Joins & Advanced Filtering (7th July 2025)
 
 **Topics Covered:**  
 - INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN  
@@ -33,7 +33,7 @@
 - Built nested queries to extract specific data slices.
 
 
-## Week 3: Aggregations & Grouping (17th July 2025)
+## Week 3: Aggregations & Grouping (14th July 2025)
 
 **Topics Covered:**  
 - GROUP BY and HAVING clauses  
@@ -48,7 +48,7 @@
 - Generated reports summarizing sales and employee performance.  
 - Worked with grouped data on customer purchase behavior.
 
-## Week 4: Data Manipulation & Optimization (22th July 2025)
+## Week 4: Data Manipulation & Optimization (2th July 2025)
 
 **Topics Covered:**  
 - INSERT, UPDATE, DELETE commands  
@@ -122,4 +122,16 @@
    - Created a 4-task learning plan covering ETL, pipelines, cloud basics, and a mini project in Notion.
    - Compiled useful resources and made a PDF study guide.
    - Planning to tackle tasks step-by-step, focusing on quality over speed.
-  
+
+## What I learned today (29th July 2025):
+- Today's plan was to learn basic concepts of ETL (Extract, Transform and Load). Used libraries like Pandas to write simple scripts.
+- Learned another term called ElT (Extract, Load and Transform) which is different from ETL.
+  - In ETL, the order is extract, transform and load and the transformation part happens in a processing environment
+  - In ELT, the order is extract, load and transform where the transformation part happens in a warehouse or a data warehouse.
+- Understood the AWS (Amazon Web Service) concepts.
+  - A cloud platfrom which offering different types of services.
+  - Amazon S3 (Simple Storage Service) stores objects in a bucket (like a folder and files, folder being the bucket and files being the objects)
+    - It has different storage classes for cost optimization based on usage.
+  - Realized that AWS supports both ETL and ELT workflows through its cloud tools, making it popular for data engineering projects.
+- Next Steps:
+Planning to keep improving my AWS skills and build more ETL/ELT pipelines using Python and cloud tools.
