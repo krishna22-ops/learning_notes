@@ -129,7 +129,7 @@
   - In ETL, the order is extract, transform and load and the transformation part happens in a processing environment
   - In ELT, the order is extract, load and transform where the transformation part happens in a warehouse or a data warehouse.
 - Understood the AWS (Amazon Web Service) concepts.
-  - A cloud platfrom which offering different types of services.
+  - A cloud platfrom offering different types of services.
   - Amazon S3 (Simple Storage Service) stores objects in a bucket (like a folder and files, folder being the bucket and files being the objects)
     - It has different storage classes for cost optimization based on usage.
   - Realized that AWS supports both ETL and ELT workflows through its cloud tools, making it popular for data engineering projects.
