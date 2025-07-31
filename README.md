@@ -135,3 +135,12 @@
   - Realized that AWS supports both ETL and ELT workflows through its cloud tools, making it popular for data engineering projects.
 - Next Steps:
 Planning to keep improving my AWS skills and build more ETL/ELT pipelines using Python and cloud tools.
+
+# What I learned today (31st July 2025):
+- Researched AWS courses and started the AWS Skill Builder course
+- Explored Cloud Computing Essentials and its core concepts
+- Learned about Amazon EC2 (Elastic Compute Cloud) — how it lets you run applications and websites without needing your own hardware
+- Understood Availability Zones (AZ) as groups of data centers with independent power and infrastructure
+- Discovered that if one AZ goes down, others continue to operate, ensuring high availability
+- Learned why AZs are important for data engineering and building fault-tolerant pipelines
+- Gained insight into EC2 instances, virtual servers, and different instance types
