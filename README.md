@@ -48,7 +48,7 @@
 - Generated reports summarizing sales and employee performance.  
 - Worked with grouped data on customer purchase behavior.
 
-## Week 4: Data Manipulation & Optimization (2th July 2025)
+## Week 4: Data Manipulation & Optimization (21th July 2025)
 
 **Topics Covered:**  
 - INSERT, UPDATE, DELETE commands  
