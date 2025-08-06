@@ -144,3 +144,12 @@ Planning to keep improving my AWS skills and build more ETL/ELT pipelines using 
 - Discovered that if one AZ goes down, others continue to operate, ensuring high availability
 - Learned why AZs are important for data engineering and building fault-tolerant pipelines
 - Gained insight into EC2 instances, virtual servers, and different instance types
+
+# What I learned today (6th August 2025):
+- The site I was using only had courses up to the above mentioned topics, so I started to look for another course
+- Found an Amazon course for free but realized I had to cover up everything from the beginning again, so I didn't really updated my github
+- Learned about the Amazon course which had a completely different UI and also based on a game theme
+- Now I am up to date about AWS
+- Today, I learned about Amazon EBS (Elastic Block Store) which is a storage unit used for storing memories and files for EC2 (Elastic Compute Cloud)
+- DNS (Domain Name System), a human friendly system which translates domain names to IP address (for example: www.example.com --> 8.8.8.8)
+
