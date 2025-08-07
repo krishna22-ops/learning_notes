@@ -157,6 +157,6 @@ Planning to keep improving my AWS skills and build more ETL/ELT pipelines using 
 - Revised and practiced previous topics: SQL, Python, and ETL
 - Brainstormed Python project ideas
 - Came up with a real-life inspired project idea
-- Decided to work on a project that uses Morse code to improve speed camera systems on highways
+- The idea is to use Morse code to help speed cameras work better and efficiently on highways
 - Spent time thinking through how to approach and start building the project
 - This project is about using Morse code and simple hardware to send or save license plate numbers when a car is speeding. It’s mainly for learning and experimenting with real-life tech ideas.
